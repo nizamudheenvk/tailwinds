@@ -1,0 +1,61 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.subhead{
+    margin-left: 78px;
+    margin-top: 5px;
+    font-size: 25px;
+}
+
+.nizam{
+    margin-left: 170px;
+}
+.img1{
+    width: 343px;
+}
+.subhead1{
+    margin-left: 75px;
+    font-size: 25px;
+
+}
+.item1{
+    margin-top: 40px;
+   display: flex;
+   justify-content: center;
+  
+}
+.btn2{
+    padding: 10px;
+    width: 130px;
+    margin-left: 30px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+}
+.slides{
+    width: 100%;
+    margin-top: 40px;
+    
+}
+.first{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    height: 30vh;
+    line-height: 50px;
+    background-color: black;
+   
+}
+.head1{
+text-decoration: none;
+color:white;
+font-size: 20px;
+margin-left: 30px;
+  
+}
+.icons{
+   font-size: 40px;
+   margin-top: 10px;
+   margin: 10px;
+}
